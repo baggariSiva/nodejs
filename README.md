@@ -1,6 +1,6 @@
 # Node.js on Elestio
 
-This is a minimal example of a Node.Js site using express framework.
+This is a minimal example of a Node.js site using express framework.
 
 Click on the button below to deploy this repository with CI/CD on Elestio:
 
