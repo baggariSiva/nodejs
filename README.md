@@ -1,6 +1,6 @@
 # Node.js on Elestio
 
-This is a minimal example of a Node.js
+This is a minimal example of a Node.js app
 
 Click on the button below to deploy this repository with CI/CD on Elestio:
 
