@@ -1,20 +1,20 @@
-# Node.js on Elestio
+# NodeJs on Elestio
 
-This is a minimal example of a Node.js site using express framework.
+This is a minimal example of a NodeJs App using express framework
 
 Click on the button below to deploy this repository with CI/CD on Elestio:
 
 <a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/nodejs"><img src="public\images\deploy-on-elestio.png" alt="Deploy on Elest.io" width="180px" /></a>
 
-<img src="public\images\screenshot-1.jpg" alt="screenshot of the Node.js app" width="100%" />
+<img src="public\images\screenshot-1.jpg" alt="screenshot of the NodeJs app" width="100%" />
 
-# Steps to clone this repository and run locally.
+# Steps to clone this repository and run locally
 
 
 ### Step 1: Clone this repository
 
 ```
-git clone https://github.com/elestio-examples/nodejs.git
+git clone YOUR_REPOSITORY_URL
 ```
 ### Step 2: Go to project folder
 
